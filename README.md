@@ -18,7 +18,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 <h3 align="center">Connect with me!</h3>
 
 <div align="center">
-  <a href="https://xxxx">
+  <a href="https://portfolio-barbaradan.vercel.app/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="portfolio icon" />
   </a>
   <a href="mailto:barbaradan2003@gmail.com">
