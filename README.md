@@ -28,7 +28,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=c7699d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://wa.me/5511989759714">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=ae4f83&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
   </a>
 </div>
 
