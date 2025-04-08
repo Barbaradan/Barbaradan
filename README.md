@@ -22,7 +22,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=a45f85&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="portfolio icon" />
   </a>
   <a href="mailto:barbaradan2003@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ae5d8a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ac5284&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a> 
   <a href="https://www.linkedin.com/in/barbara-daniel-dev/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=c7699d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
