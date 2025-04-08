@@ -15,19 +15,19 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="center">Connect with me!</h3>
 
 <div align="center">
-  <a href="https://portfolio-2-swart-tau.vercel.app/">
+  <a href="https://xxxx">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="portfolio icon" />
   </a>
-  <a href="mailto:francine.c.oliveiracruz@gmail.com">
+  <a href="mailto:barbaradan2003@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a> 
-  <a href="https://www.linkedin.com/in/francine-ccruz/">
+  <a href="https://www.linkedin.com/in/barbara-daniel-dev/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://wa.me/5551986283397">
+  <a href="https://wa.me/5511989759714">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
   </a>
 </div>
