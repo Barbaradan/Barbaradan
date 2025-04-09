@@ -54,7 +54,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
 <div align="center">
 <h3 align="center"> * Git Status * </h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbaradan&layout=compact&langs_count=20&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbaradan&layout=compact&langs_count=20&color=a45f85" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barbaradan&theme=tokyonight" />
 </div>
 
