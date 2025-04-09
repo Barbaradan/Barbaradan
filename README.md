@@ -52,7 +52,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
 #
 
-<div align="center">
+<div style="text-align: center;" align="center">
 <h3 align="center"> * Git Stats * </h3>
   
   <a href="https://github.com/Barbaradan/github-readme-stats">
