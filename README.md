@@ -32,8 +32,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 </div>
 
 
-<h3 align="left">Technologies
-</h3>
+<h3 align="left">Technologies </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -55,7 +54,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 #
 
 <div align="center">
-
+<h3 align="center"> * Git Status * </h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine02&layout=compact&langs_count=20&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francine02&theme=tokyonight" />
 </div>
