@@ -55,16 +55,16 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
 <div align="center">
 <h3 align="center"> * Git Status * </h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine02&layout=compact&langs_count=20&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francine02&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbaradan&layout=compact&langs_count=20&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barbaradan&theme=tokyonight" />
 </div>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: pink)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Barbaradan/Barbaradan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Barbaradan/Barbaradan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Barbaradan/Barbaradan/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
