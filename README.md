@@ -6,7 +6,6 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-## 🩰 Sobre Mim
 
 <p align="center">Formada em Análise e Desenvolvimento de Sistemas na FMU. Atualmente estudo na Alura com foco em técnologias de desenvolvimento web/front-end.
 Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
