@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff479d">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF9BD3">
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff479d&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF9BD3&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -18,13 +18,13 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
 <div align="center">
   <a href="https://portfolio-barbaradan.vercel.app/">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=c43b7b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio icon" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=FF9BD3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio icon" />
   </a>
   <a href="mailto:barbaradan2003@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c43b7b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF9BD3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a> 
   <a href="https://www.linkedin.com/in/barbara-daniel-dev/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=c43b7b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FF9BD3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://wa.me/5511989759714">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=c43b7b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
