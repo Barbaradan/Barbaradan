@@ -18,16 +18,16 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
 <div align="center">
   <a href="https://portfolio-barbaradan.vercel.app/">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=FF9BD3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio icon" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=BC6691&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio icon" />
   </a>
   <a href="mailto:barbaradan2003@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF9BD3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=BC6691&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a> 
   <a href="https://www.linkedin.com/in/barbara-daniel-dev/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FF9BD3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=BC6691&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://wa.me/5511989759714">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=c43b7b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=BC6691&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
   </a>
 </div>
 
@@ -59,8 +59,6 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
   <a href="https://github.com/Barbaradan/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Barbaradan&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF9BD3&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=ff479d&count_private=true" alt="Most Used Languages">
   </a>
-  <br>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Barbaradan&theme=dark&ring=FF9BD3&background=090D13&fire=FF9BD3&currStreakNum=FF9BD3&currStreakLabel=FF9BD3&dates=FFE2E8&excludeDaysLabel=FF9BD3&border=FF9BD3)](https://git.io/streak-stats)
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Barbaradan&theme=dark&ring=FF9BD3&background=090D13&fire=FF9BD3&currStreakNum=FF9BD3&currStreakLabel=FF9BD3&dates=FFE2E8&excludeDaysLabel=FF9BD3&border=FF9BD3" alt="GitHub Streak" /></a>
 <br>
 
