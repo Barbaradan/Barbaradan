@@ -57,10 +57,10 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 <h3 align="center"> * Git Stats * </h3>
 
   <a href="https://github.com/Barbaradan/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Barbaradan&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF9BD3&bg_color=#090d13&text_color=8B8B8B&border_radius=3&border_color=FF9BD3&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Barbaradan&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF9BD3&bg_color=090d13&text_color=8B8B8B&border_radius=3&border_color=FF9BD3&count_private=true" alt="Most Used Languages">
   </a>
   
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Barbaradan&count_private=true&show_icons=true&theme=radical&bg_color=#090d13" /> </p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Barbaradan&count_private=true&show_icons=true&theme=radical&bg_color=090d13" /> </p>
   
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Barbaradan&theme=dark&ring=FF9BD3&background=090D13&fire=BC6691&currStreakNum=FF9BD3&currStreakLabel=FF9BD3&dates=FFE2E8&excludeDaysLabel=FF9BD3&border=FF9BD3" alt="GitHub Streak" /></a>
 <br>
