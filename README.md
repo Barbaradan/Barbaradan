@@ -8,7 +8,7 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 
-<p align="center">Formada em Análise e Desenvolvimento de Sistemas na FMU. Atualmente estudo na Alura com foco em técnologias de Desenvolvimento Full Stack
+<p align="center">Formada em Análise e Desenvolvimento de Sistemas na FMU. Atualmente estudo na Alura com foco em técnologias de Desenvolvimento Full Stack.
 Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 
