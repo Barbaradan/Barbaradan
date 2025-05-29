@@ -8,7 +8,7 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 
-<p align="center">Formada em Análise e Desenvolvimento de Sistemas na FMU. Atualmente estudo na Alura com foco em técnologias de desenvolvimento web/front-end.
+<p align="center">Formada em Análise e Desenvolvimento de Sistemas na FMU. Atualmente estudo na Alura com foco em técnologias de Desenvolvimento Full Stack
 Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 
@@ -48,6 +48,12 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="git logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="git logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="git logo"  />
   <img width="8" />
 </div>
 
