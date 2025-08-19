@@ -62,6 +62,8 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 <div style="text-align: center;" align="center">
 <h3 align="center"> * Git Stats * </h3>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbaradan&layout=compact&theme=radical)
+
   <a href="https://github.com/Barbaradan/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Barbaradan&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF9BD3&bg_color=090d13&text_color=8B8B8B&border_radius=3&border_color=FF9BD3&count_private=true" alt="Most Used Languages">
   </a>
