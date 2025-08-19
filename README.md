@@ -64,7 +64,6 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbaradan&layout=compact&title_color=FF9BD3&text_color=ffffff&bg_color=000000&border_color=FF9BD3)
   ![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barbaradan&show_icons=true&theme=radical&&title_color=FF9BD3&text_color=ffffff&bg_color=000000&border_color=FF9BD3)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Barbaradan&bg_color=000000&color=ffffff&line=ff00ff&point=ff00ff&area=true&hide_border=true)
 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Barbaradan&theme=dark&ring=FF9BD3&background=090D13&fire=BC6691&currStreakNum=FF9BD3&currStreakLabel=FF9BD3&dates=FFE2E8&excludeDaysLabel=FF9BD3&border=FF9BD3" alt="GitHub Streak" /></a>
 <br>
