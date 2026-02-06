@@ -64,7 +64,8 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 <div style="text-align: center;" align="center">
 <h3 align="center"> * Git Stats * </h3>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbaradan&layout=compact&langs_count=6&&title_color=FF9BD3&text_color=ffffff&bg_color=090D13&border_color=FF9BD3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbaradan&layout=compact&langs_count=6&theme=tokyonight)
+
 
   ![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barbaradan&show_icons=true&theme=radical&&title_color=FF9BD3&text_color=ffffff&bg_color=090D13&border_color=FF9BD3)
 
